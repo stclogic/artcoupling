@@ -47,7 +47,7 @@ const About: React.FC<AboutProps> = ({ onWhitepaper }) => {
             {/* Image Layer */}
             <div className="absolute inset-0 bg-gray-800 rounded-sm overflow-hidden shadow-2xl border-[10px] border-ac-charcoal">
                <img 
-                 src="https://images.unsplash.com/photo-1579783902614-a3fb39279c23?q=80&w=1000&auto=format&fit=crop" 
+                 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimlBHg_1F10trf-CtkRF78Dv-W_mxepFI5-JYekxNV1asSu95QVZqreau4uRVJ3w5i-Z_DpDyzY_Y5K3q70QpGsxbUtArIzb3SrfPaj8kS5PHRBMYh3zjfQSVKNaYyjqhI7Mk_urS_dLZNNL-3mfP0zyxwIX3lU_mlX-ALAlQ839EKrcCnSUwsg9hG0UQO/s1971/IMG_8999.jpeg$0" 
                  alt="Featured Art" 
                  className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity duration-500"
                />
